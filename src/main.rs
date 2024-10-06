@@ -1,3 +1,3 @@
 fn main() {
-    println!("Test sign with gpg Key Part 6!");
+    println!("Test sign with gpg Key Part 7!");
 }
